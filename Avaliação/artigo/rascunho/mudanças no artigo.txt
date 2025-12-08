@@ -1,0 +1,7 @@
+mudanças no artigo:
+
+- os resumos possuem mais de 150 palavras, arrumar isso
+- ler o artigo como um todo e reescrever com nossas palavras
+- rever seção de metodologia, resultados e discussão
+- verificar a ordem dos títulos e subtítulos (ver se a ordem tem coerência)
+
