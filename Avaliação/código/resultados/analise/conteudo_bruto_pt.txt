@@ -1,0 +1,15 @@
+date
+version
+license
+docs
+epoch
+best_fitness
+model
+ema
+updates
+optimizer
+scaler
+train_args
+train_metrics
+train_results
+git
