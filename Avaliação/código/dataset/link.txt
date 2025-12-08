@@ -1,0 +1,3 @@
+O arquivo do dataset ultrapassa o limite de armazenamento permitido para os commits, então aqui está o link para a origem do dataset usado para o projeto: 
+
+https://www.kaggle.com/datasets/gabrielferrante/brazilian-road-animals-bra-dataset
