@@ -40,4 +40,8 @@ A forma mais simples de replicar o projeto é via **Google Colab**.
 | Ação | Instrução |
 | :--- | :--- |
 | **Acessar o Notebook** | Abra o link de treinamento principal **[clicando aqui](https://colab.research.google.com/drive/1FiB9Fb2ILmkaCDrSXuTjZJZ5cyz3b0Ko?usp=sharing)** para acessar o código diretamente no Colab. |
-| **Artigo/Relatório Final** | Leia a metodologia, os resultados detalhados e a discussão do projeto **[clicando aqui](https://docs.google.com/document/d/1hUo-jjalVKMqXPJgD4F0y6aBCOZuibXf/edit?usp=sharing&ouid=100839594427479958883&rtpof=true&sd=true)**. |
+| **Artigo/Relatório Final** | Leia a metodologia, os resultados detalhados e a discussão do projeto **[clicando aqui](https://drive.google.com/file/d/1VUm2WxBygr06ErMQJ3A-tJUQorHpivPy/view?usp=sharing)**. |
+| **Video Explicativo sobre o Projeto** | Assista ao video explicativo sobre o funcionamento do Projeto **[clicando aqui](https://drive.google.com/drive/recent?hl=pt-br)**. |
+
+
+
